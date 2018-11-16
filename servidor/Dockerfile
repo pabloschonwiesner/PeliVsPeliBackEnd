@@ -1,5 +1,5 @@
 # dsadjlfas
-FROM: ubuntu:trusty
+FROM ubuntu:trusty
 
 MAINTAINER Pablo Schonwiesner
 
